@@ -10,7 +10,7 @@ incorporate these topics but would also provide challenges where I could put my 
 # Some interesting projects I've done #
 [NewsBook](https://github.com/FilipaPereira00/3-ano/tree/main/LI4)
 
-[Warehouse management with autonomous robots](https://github.com/FilipaPereira00/3-ano/tree/main/DSS)
+[Warehouse management using autonomous robots](https://github.com/FilipaPereira00/3-ano/tree/main/DSS)
 
 [Bitcoin price predictions](https://github.com/FilipaPereira00/3-ano/tree/main/MNOL)
 
