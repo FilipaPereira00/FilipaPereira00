@@ -10,11 +10,11 @@ incorporate these topics but would also provide challenges where I could put my 
 # Some interesting projects I've done #
 [NewsBook](https://github.com/FilipaPereira00/3-ano/tree/main/LI4)
 
-[Warehouse Management with autonomous robots](https://github.com/FilipaPereira00/3-ano/tree/main/DSS)
+[Warehouse management with autonomous robots](https://github.com/FilipaPereira00/3-ano/tree/main/DSS)
 
-[Bitcoin Price Predictions](https://github.com/FilipaPereira00/3-ano/tree/main/MNOL)
+[Bitcoin price predictions](https://github.com/FilipaPereira00/3-ano/tree/main/MNOL)
 
-[Traffic Prediction using Machine Learning algorithms](https://github.com/FilipaPereira00/4-ano/tree/master/DAA)
+[Traffic prediction using Machine Learning algorithms](https://github.com/FilipaPereira00/4-ano/tree/master/DAA)
 
 # Statistics #
 
