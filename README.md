@@ -18,7 +18,7 @@ incorporate these topics but would also provide challenges where I could put my 
 
 # Statistics #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipaPereira00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipaPereira00&hide=javascript,Roff&theme=tokyonight)
 
 
 # Social Media #
