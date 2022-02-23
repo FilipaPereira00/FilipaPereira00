@@ -8,7 +8,7 @@ Technology , science and computers are longtime passions of mine. I have always 
 incorporate these topics but would also provide challenges where I could put my competencies to the test. This is why I decided to become a Software Engineer.
 
 # Some interesting projects I've done #
-[NewsBook](https://github.com/FilipaPereira00/3-ano/tree/main/LI4)
+[News Application](https://github.com/FilipaPereira00/3-ano/tree/main/LI4)
 
 [Warehouse management using autonomous robots](https://github.com/FilipaPereira00/3-ano/tree/main/DSS)
 
