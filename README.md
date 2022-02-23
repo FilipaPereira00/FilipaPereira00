@@ -1,8 +1,11 @@
 # Hi, welcome :wave:  #
 
-My name is Filipa and I'm a Software Engineering Master's student at University of Minho. 	:computer: :computer_mouse:	
+My name is Filipa and I'm a Software Engineering Master's student at [University of Minho](https://www.uminho.pt/PT). :computer: :computer_mouse:	
 
-I was born and raised in Braga,Portugal and technology is a longtime passion of mine. 
+I was born and raised in Braga. :portugal: :round_pushpin:
+
+Technology , science and computers are longtime passions of mine. I have always wanted to study something that would not only 
+incorporate these topics but would also provide challenges where I could put my competencies to the test. This is why I decided to become a Software Engineer.
 
 # Social Media #
 
