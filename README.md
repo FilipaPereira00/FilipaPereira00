@@ -12,7 +12,7 @@ incorporate these topics but would also provide challenges where I could put my 
 
 [Warehouse management using autonomous robots](https://github.com/FilipaPereira00/3-ano/tree/main/DSS)
 
-[Bitcoin price predictions](https://github.com/FilipaPereira00/3-ano/tree/main/MNOL)
+[Bitcoin price predictions](https://github.com/FilipaPereira00/3-ano/tree/main/MNOL/TP1.pdf)
 
 [Traffic prediction using Machine Learning algorithms](https://github.com/FilipaPereira00/4-ano/tree/master/DAA)
 
